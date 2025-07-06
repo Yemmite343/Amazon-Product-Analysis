@@ -97,7 +97,7 @@ k. Product Name by Combined Score	Product prioritization based on calculated per
 ---
 
 ## Screenshot
-DASHBOARD-3.jpg
+![](DASHBOARD-3.jpg)
 
 
 ---
