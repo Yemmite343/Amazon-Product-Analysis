@@ -23,56 +23,89 @@ To analyze product pricing strategies, rating distributions, and discount effect
 
 The dataset contains the following fields:
 
-Product Name
-
-Category
-
-Discounted Price
-
-Actual Price
-
-Discount Percentage
-
-Rating
-
-Rating Count
-
-Combined Score (possibly derived from Rating × Rating Count)
-
-Price Bucket (e.g., < 20, 20–45, > 45)
-
-Discount Level (Low, Mid, High)
-
-
-
----
-
-Dashboard Features
-
-1. Filters/Slicers:
+1. Product Name
 
 2. Category
 
-3. Price Bucket
+3. Discounted Price
 
-4. Discount Level
+4. Actual Price
+
+5. Discount Percentage
+
+6. Rating
+
+7. Rating Count
+
+8. Combined Score (possibly derived from Rating × Rating Count)
+
+9. Price Bucket (e.g., < 20, 20–45, > 45)
+
+10. Discount Level (Low, Mid, High)
+
+---
 
 
-## Key Visualizations:
+## Dashboard Summary
 
-Chart Title	Description
+This Excel dashboard provides interactive visual insights into product categories, pricing, ratings, reviews, and discount behavior across an online retail dataset.
 
-a. Average of Discount Percentage	Shows average discount by product category.
-b. Count of Product Name by Category	Total product count across each category.
-c. Sum of Rating Count by Category	Aggregated user engagement by category.
-d. Sum of Rating Count by Product Name	Top-rated products by volume of reviews.
-e. Average of Rating by Product Name	Insight into customer satisfaction per product.
-f. Average of Discounted vs Actual Price	Price comparison bar chart.
-g. Average Rating per Price Bucket	User rating trends across different pricing tiers.
-h. Category by Max of Discount Level	Highest discount level per category.
-i. Sum of Potential Revenue	Potential revenue estimation (Actual Price × Rating Count).
-j. Counts of Shortened Product Names	Visual grouping of similar product types.
-k. Product Name by Combined Score	Product prioritization based on calculated performance.
+---
+
+## Dashboard Features
+
+- **Filters/Slicers:**
+  - Category
+  - Price Bucket
+  - Discount Level
+
+---
+
+## Key Visualizations
+
+| Chart Title                                         | Description                                                                 |
+|----------------------------------------------------|-----------------------------------------------------------------------------|
+| **Dashboard Overview**                             | Full snapshot of the dashboard layout and visual components.               |
+| **Average of Discount Percentage**                 | Shows average discount by product category.                                |
+| **Count of Product Name by Category**              | Total product count across each category.                                  |
+| **Sum of Rating Count by Category**                | Aggregated user engagement by category.                                    |
+| **Sum of Rating Count by Product Name**            | Top-rated products by volume of reviews.                                   |
+| **Average of Rating by Product Name**              | Insight into customer satisfaction per product.                            |
+| **Average of Discounted vs Actual Price**          | Price comparison between original and discounted prices.                   |
+| **Average Rating per Price Bucket**                | User rating trends across different pricing tiers.                         |
+| **Category by Max of Discount Level**              | Highest discount level per category.                                       |
+| **Sum of Potential Revenue**                       | Potential revenue estimation (Actual Price × Rating Count).                |
+| **Counts of Shortened Product Names**              | Visual grouping of similar product types using cleaned names.              |
+| **Product Name by Combined Score**                 | Top products ranked by (Rating × Review Count) combined score.            |
+
+---
+
+## Dashboard Visuals
+
+| Image Name                                        | Preview |
+|--------------------------------------------------|---------|
+| ![Dashboard Overview](Dashboard_Overview.jpg)                              |
+| ![Total Potential Revenue](Total_Potential_Revenue.jpg)                    |
+| ![Total No of Products](No_of_Products.jpg)                                |
+| ![Total No of Categories](No_of_Categories.jpg)                            |
+| ![Average Rating](Avg._Rating.jpg)                                         |
+| ![Average Discount %](Avg._Discount_%.jpg)                                 |
+| ![Total Reviews](Total_Reviews.jpg)                                        |
+| ![50% or More Discount](50%_or_More_Discount.jpg)                          |
+| ![Avg. Discount % by Category](Avg._Discount_%_by_Category .jpg)          |
+| ![Product Rating Distribution](Products_Rating_Distribution.jpg)           |
+| ![Total Reviews per Category](Total_Reviews_per_Category.jpg)             |
+| ![Unique Products per Price Bucket](Unique_Products_per_Price_Bucket.jpg) |
+| ![Avg. Actual vs Discounted Price](Avg._Actual_vs_Discounted_Price_by_Category.jpg) |
+| ![Highest Avg. Rated Products](Highest_Avg._ratings_of_Products.jpg)      |
+| ![Rating vs Discount Relationship](Rating_and_Discount_Level_Relationship.jpg) |
+| ![Potential Revenue by Category](Total_Potential_Revenue_by_Category.jpg) |
+| ![Highest Review Products](Highest_Review_of_Products.jpg)                |
+| ![Top 5 Products Combined Score](Top_5_Products_on_Combined_Score.jpg)    |
+| ![Highest Discount Categories](Highest_Discount_%_Categories.jpg)         |
+| ![Total Reviews per Category](Total_No._of_Reviews_per_Category.jpg)      |
+| ![Slicer Filter](Slicer.jpg)                                               |
+
 
 
 
