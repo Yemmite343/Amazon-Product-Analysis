@@ -82,47 +82,68 @@ This Excel dashboard provides interactive visual insights into product categorie
 
 ## Dashboard Visuals
 
-| Image Name                                        | Preview |
-|--------------------------------------------------|---------|
-| ![Dashboard Overview](Dashboard_Overview.jpg)                              |
-| ![Total Potential Revenue](Total_Potential_Revenue.jpg)                    |
-| ![Total No of Products](No_of_Products.jpg)                                |
-| ![Total No of Categories](No_of_Categories.jpg)                            |
-| ![Average Rating](Avg._Rating.jpg)                                         |
-| ![Average Discount %](Avg._Discount_%.jpg)                                 |
-| ![Total Reviews](Total_Reviews.jpg)                                        |
-| ![50% or More Discount](50%_or_More_Discount.jpg)                          |
-| ![Avg. Discount % by Category](Avg._Discount_%_by_Category .jpg)          |
-| ![Product Rating Distribution](Products_Rating_Distribution.jpg)           |
-| ![Total Reviews per Category](Total_Reviews_per_Category.jpg)             |
-| ![Unique Products per Price Bucket](Unique_Products_per_Price_Bucket.jpg) |
-| ![Avg. Actual vs Discounted Price](Avg._Actual_vs_Discounted_Price_by_Category.jpg) |
-| ![Highest Avg. Rated Products](Highest_Avg._ratings_of_Products.jpg)      |
-| ![Rating vs Discount Relationship](Rating_and_Discount_Level_Relationship.jpg) |
-| ![Potential Revenue by Category](Total_Potential_Revenue_by_Category.jpg) |
-| ![Highest Review Products](Highest_Review_of_Products.jpg)                |
-| ![Top 5 Products Combined Score](Top_5_Products_on_Combined_Score.jpg)    |
-| ![Highest Discount Categories](Highest_Discount_%_Categories.jpg)         |
-| ![Total Reviews per Category](Total_No._of_Reviews_per_Category.jpg)      |
-| ![Slicer Filter](Slicer.jpg)                                               |
+### Dashboard Overview  
+![Dashboard Overview](Dashboard_Overview.jpg)
 
+### Total Potential Revenue  
+![Total Potential Revenue](Total_Potential_Revenue.jpg)
 
+### Number of Products  
+![Number of Products](No_of_Products.jpg)
 
+### Number of Categories  
+![Number of Categories](No_of_Categories.jpg)
 
----
+### Average Rating  
+![Average Rating](Avg._Rating.jpg)
 
-## Business Insights
+### Average Discount %  
+![Average Discount %](Avg._Discount_%.jpg)
 
-1. Discount Strategy: Categories like Computer Accessories and Mobile Accessories offer higher average discounts, which may be useful for promotion strategies.
+### Total Reviews  
+![Total Reviews](Total_Reviews.jpg)
 
+### 50% or More Discount  
+![50% or More Discount](50%_or_More_Discount.jpg)
 
-2. Revenue Drivers: Products with high ratings and low prices show potential for massive reach.
+### Avg. Discount % by Category  
+![Avg. Discount % by Category](Avg._Discount_%_by_Category .jpg)
 
+### Product Rating Distribution  
+![Products Rating Distribution](Products_Rating_Distribution.jpg)
 
-3. Customer Engagement: High rating counts in certain categories highlight where customers are more active and responsive.
+### Total Reviews per Category  
+![Total Reviews per Category](Total_Reviews_per_Category.jpg)
 
+### Unique Products per Price Bucket  
+![Unique Products per Price Bucket](Unique_Products_per_Price_Bucket.jpg)
 
-4. Pricing Buckets: Mid-priced products often yield higher ratings, indicating a balance between affordability and quality.
+### Avg. Actual vs Discounted Price by Category  
+![Avg. Actual vs Discounted Price by Category](Avg._Actual_vs_Discounted_Price_by_Category.jpg)
+
+### Highest Avg. Rated Products  
+![Highest Avg. Rated Products](Highest_Avg._ratings_of_Products.jpg)
+
+### Rating & Discount Level Relationship  
+![Rating and Discount Level Relationship](Rating_and_Discount_Level_Relationship.jpg)
+
+### Total Potential Revenue by Category  
+![Total Potential Revenue by Category](Total_Potential_Revenue_by_Category.jpg)
+
+### Highest Review Products  
+![Highest Review Products](Highest_Review_of_Products.jpg)
+
+### Highest Discount Categories  
+![Highest Discount Categories](Highest_Discount_%_Categories.jpg)
+
+### Top 5 Products on Combined Score  
+![Top 5 Products on Combined Score](Top_5_Products_on_Combined_Score.jpg)
+
+### Total No. of Reviews per Category  
+![Total No. of Reviews per Category](Total_No._of_Reviews_per_Category.jpg)
+
+### Slicer Filter View  
+![Slicer](Slicer.jpg)
 
 
 
