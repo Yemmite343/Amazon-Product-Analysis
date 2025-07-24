@@ -1,4 +1,4 @@
-#Project Overview
+# Project Overview
 
 This Excel dashboard provides an interactive visualization of product-level discount, rating, and revenue analysis across multiple categories. It is designed to help stakeholders understand:
 
