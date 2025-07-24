@@ -88,22 +88,18 @@ This Excel dashboard provides interactive visual insights into product categorie
 ![Number Of Products](Screenshot/No_of_Products.jpg)  
 ![Number Of Categories](Screenshot/No_of_Categories.jpg)  
 ![Average Rating](Screenshot/Avg._Rating.jpg)  
-![Average Discount %](Screenshot/Avg._Discount_%.jpg)  
 ![Total Reviews](Screenshot/Total_Reviews.jpg)  
-![50% Or More Discount](Screenshot/50%_or_More_Discount.jpg)
+
 
 ## Visual Insights
-
-![Average Discount % By Category](Screenshot/Avg._Discount_%_by_Category.jpg)  
+  
 ![Products Rating Distribution](Screenshot/Products_Rating_Distribution.jpg)  
-![Total Reviews Per Category](Screenshot/Total_Reviews_per_Category.jpg)  
-![Unique Products Per Price Bucket](Screenshot/Unique_Products_per_Price_Bucket.jpg)  
+![Total Reviews Per Category](Screenshot/Total_Reviews_per_Category.jpg)    
 ![Average Actual Vs Discounted Price](Screenshot/Avg._Actual_vs_Discounted_Price_by_Category.jpg)  
 ![Highest Avg. Ratings Of Products](Screenshot/Highest_Avg._ratings_of_Products.jpg)  
 ![Rating And Discount Level Relationship](Screenshot/Rating_and_Discount_Level_Relationship.jpg)  
 ![Total Potential Revenue By Category](Screenshot/Total_Potential_Revenue_by_Category.jpg)  
-![Highest Review Of Products](Screenshot/Highest_Review_of_Products.jpg)  
-![Highest Discount % Categories](Screenshot/Highest_Discount_%_Categories.jpg)  
+![Highest Review Of Products](Screenshot/Highest_Review_of_Products.jpg)   
 ![Top 5 Products On Combined Score](Screenshot/Top_5_Products_on_Combined_Score.jpg)  
 ![Total No. Of Reviews Per Category](Screenshot/Total_No._of_Reviews_per_Category.jpg)
 
